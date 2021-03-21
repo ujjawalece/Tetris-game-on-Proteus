@@ -6,3 +6,8 @@ This problem statement is of ***Digisim 2020*** event, Digisim is a Digital Elec
 ### Problem Statement-
 
 You can read the complete Problem statement [here](https://github.com/ujjawalece/Tetris-game-on-Proteus/blob/main/Digism%20PS2.pdf). 
+
+### Soluion-
+
+So, [here](https://github.com/ujjawalece/Tetris-game-on-Proteus/blob/main/Digisim.DSN) is the complete proteus circuit for the Tetris game.
+After opening the file double add [this file](https://github.com/ujjawalece/Tetris-game-on-Proteus/blob/main/main.bin) to the ROM in circuit.
