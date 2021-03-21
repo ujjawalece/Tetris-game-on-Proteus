@@ -10,4 +10,4 @@ You can read the complete Problem statement [here](https://github.com/ujjawalece
 ### Soluion-
 
 So, [here](https://github.com/ujjawalece/Tetris-game-on-Proteus/blob/main/Digisim.DSN) is the complete proteus circuit for the Tetris game.
-After opening the file double add [this file](https://github.com/ujjawalece/Tetris-game-on-Proteus/blob/main/main.bin) to the ROM in circuit.
+After opening the file above, add [this file](https://github.com/ujjawalece/Tetris-game-on-Proteus/blob/main/main.bin) to the ROM in circuit.
